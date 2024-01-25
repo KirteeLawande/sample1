@@ -1,0 +1,83 @@
+Assignment no 2
+
+Ques1:What is Operating System?
+Ans:-An operating system (OS) is a software program that manages computer hardware and provides services for computer programs. It acts as an intermediary between the hardware and the user applications, ensuring that the hardware resources are utilized efficiently and providing a user-friendly interface.
+
+Key functions of an operating system include:
+
+Process Management: The OS manages processes, which are instances of executing programs. It allocates resources, schedules tasks, and ensures that multiple processes can run concurrently.
+
+Memory Management: It oversees the allocation and deallocation of memory space for programs and data, preventing conflicts between different applications.
+
+File System Management: The OS manages files on storage devices, providing a hierarchical structure for organizing and accessing data.
+
+Device Management: The operating system interacts with hardware devices such as printers, disk drives, and input/output devices, ensuring they function correctly and facilitating communication between software and hardware.
+
+Security and Access Control: It enforces security measures to protect the system and user data. This includes user authentication, authorization, and other security mechanisms.
+
+User Interface: The OS provides a user interface that allows users to interact with the computer system. This can be a command-line interface (CLI), a graphical user interface (GUI), or a combination of both.
+
+Ques2:Types of operating System.  
+Ans:-There are several types of operating systems, each designed to serve different purposes and cater to specific computing environments. Here are some common types of operating systems:
+
+Single-User, Single-Tasking OS:
+
+Example: MS-DOS (Microsoft Disk Operating System)
+Designed for single users and can handle only one task at a time.
+Single-User, Multi-Tasking OS:
+
+Examples: Microsoft Windows (for personal computers), macOS (for Macintosh computers)
+Allows a single user to run multiple applications simultaneously.
+Multi-User OS:
+
+Examples: Unix, Linux
+Supports multiple users concurrently, each with their own login credentials, and can handle multiple tasks for different users simultaneously.
+Real-Time OS (RTOS):
+
+Examples: VxWorks, QNX
+Designed for systems that require immediate and predictable responses to events. Commonly used in embedded systems, control systems, and time-sensitive applications.
+Distributed OS:
+
+Examples: Amoeba, Plan 9
+Enables the distribution of tasks and processing across multiple interconnected computers. Facilitates communication and resource sharing in a networked environment.
+Network OS:
+
+Examples: Novell NetWare
+Optimized for network functions and resource sharing. Manages network resources such as printers, file servers, and communication between computers.
+Mobile OS:
+
+Examples: Android, iOS
+Specifically designed for mobile devices such as smartphones and tablets. Optimized for touch interfaces and often include features like app stores and power management.
+Embedded OS:
+
+Examples: VxWorks (used in embedded systems), FreeRTOS
+Tailored for specific hardware and embedded systems, such as those found in consumer electronics, industrial machines, and automotive systems.
+Time-Sharing OS:
+
+Examples: Unix, Multics
+Enables multiple users to interact with the computer simultaneously, with the OS rapidly switching between tasks, giving each user the illusion of dedicated use.
+Multi-Core and Parallel OS:
+
+Examples: Linux, Windows
+Optimized to take advantage of multi-core processors and parallel processing, enhancing performance by distributing tasks across multiple CPU cores.
+
+Ques3:What is linux Operating system?
+Ans:-Linux is an open-source, Unix-like operating system kernel that serves as the foundation for various operating systems. The term "Linux" is often used to refer to the entire operating system, although strictly speaking, it specifically denotes the kernel. The operating system built around the Linux kernel typically includes various software components, utilities, libraries, and sometimes a graphical user interface.
+
+Key features of Linux include:
+
+Open Source: Linux is distributed under open-source licenses (such as the GNU General Public License), allowing users to view, modify, and distribute the source code. This fosters collaboration and community-driven development.
+
+Unix-Like: Linux follows design principles similar to Unix, providing a powerful and secure environment. Many commands and concepts from Unix systems are applicable to Linux.
+
+Multi-User and Multi-Tasking: Like Unix, Linux supports multiple users simultaneously and can handle numerous processes running concurrently.
+
+Stability and Reliability: Linux is known for its stability and reliability. It is often used in critical systems and servers due to its robust performance.
+
+Portability: Linux can run on a wide range of hardware platforms, from personal computers to servers, embedded systems, and supercomputers.
+
+Security: Linux includes built-in security features, and its open-source nature allows the community to identify and fix security vulnerabilities promptly.
+
+Networking Capabilities: Linux has strong networking support, making it an excellent choice for servers and networked environments.
+
+Package Management: Linux distributions typically use package management systems that simplify the installation, removal, and updating of software packages.
